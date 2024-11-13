@@ -8,6 +8,8 @@
 
       Detects and connects to RizomUV via the Windows registry. Automatically starts RizomUV if it is not already running.
 
+	  Note: Please see the Version Selection feature below for further details.
+
 3.	Manual and Automatic UV Update Modes
 
       Send Button: Manually send UV and polygon data from Cinema 4D to RizomUV for processing.
@@ -26,26 +28,34 @@
 
       Automatically adjusts UVs during the export and import process to maintain accurate UV mappings.
 
-6.	Live UV Change Detection
-
-      New UVs Checkbox: Detects and processes only newly created or modified UVs when checked.
-
-      Monitors the selected object's UVs in Cinema 4D and compares them with the previously stored UVs to detect any changes.
-
-7.	RizomUV Connection and Data Exchange
+6.	RizomUV Connection and Data Exchange
 
       Automatically establishes a connection with RizomUV when sending or retrieving UV data.
 
       Utilizes the RizomUVLink API to load and save polygon and UV data efficiently.
 
-8.	Detailed Polygon and Edge Data Handling
+7.	Detailed Polygon and Edge Data Handling
 
       Retrieves detailed polygon information including sizes, 3D coordinates, and UV indices.
 
       Provides options to select specific edges or polygons to be processed in RizomUV, ensuring precise control over the UV editing workflow.
 
-9.	Intuitive User Interface
+8.	Intuitive User Interface
 
       Features an easy-to-use dialog with options to manually send and receive data, enable/disable auto-update, and manage edge exports.
 
       Automatically enables and disables buttons based on the current object selection and the running status of RizomUV.
+
+9.	Version Selection
+
+      Allows the user to select from a list of RizomUV versions that support the RizomLink API.
+	  
+	  Note: Default will always execute the newest version of RizomUV installed.
+
+10.	Basic Scripting
+
+      Allows the user to Create/Save/Execute custom script commands. Please see the example included in the Scripts directory.
+
+
+# RizomLink Usage
+      Coming soon...
