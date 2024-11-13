@@ -1,3 +1,5 @@
+# Screenshots
+![UI](https://github.com/user-attachments/assets/837a815a-3e62-40af-afcf-760d48e7639c)
 # Feature List for RizomLink for Cinema 4D
 
 1.	Seamless Integration with RizomUV
