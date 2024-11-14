@@ -62,3 +62,7 @@
 
 # RizomLink Usage
       Coming soon...
+
+# Known Issues
+      Ngons are not supported currently...
+      Higher polygon counts will result in much longer sending times.
