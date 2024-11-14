@@ -19,7 +19,7 @@
 
       Get Button: Manually retrieve updated UV data from RizomUV and apply it to the selected Cinema 4D object.
 
-      Auto Update Mode: Enables continuous monitoring of UV changes in Cinema 4D, automatically sending updates to RizomUV in real-time and vice versa.
+      Auto Update Mode: Enables continuous monitoring of UV changes in RizomUV in real-time and sends that data back to Cinema 4D.
 
 4.	Edge Export Functionality
 
