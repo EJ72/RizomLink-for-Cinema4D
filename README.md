@@ -1,3 +1,6 @@
+# Supported Cinema 4D versions:
+R23, S24, R25, S26, 2023, 2024, and 2025
+
 # Screenshots
 ![UI](https://github.com/user-attachments/assets/420c63d7-9d00-414e-80cf-6f199d7d05e6)
 
