@@ -70,5 +70,6 @@ R23, S24, R25, S26, 2023, 2024, and 2025
       Once UVs are adjusted the way you want, click the 'Get' button
 
 # Known Issues
-      Ngons are not supported currently...
-      Higher polygon counts will result in much longer sending times. The RizomUV developer is looking into this issue.
+      -- Ngons are not supported currently but will be in a future release.
+      -- Higher polygon counts will result in much longer sending times.
+      -- The RizomUV developer is looking into this issue.
