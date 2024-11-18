@@ -61,8 +61,11 @@
 
 
 # RizomLink Usage
-      Coming soon...
+      Basic workflow is open up the UVEdit tab in Cinema 4D
+      Select an object to send to Rizom UV
+      Load RizomLink and select options as desired then click 'Send' button
+      Once UVs are adjusted the way you want, click the 'Get' button
 
 # Known Issues
       Ngons are not supported currently...
-      Higher polygon counts will result in much longer sending times.
+      Higher polygon counts will result in much longer sending times. The RizomUV developer is looking into this issue.
