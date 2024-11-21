@@ -74,3 +74,5 @@ R23, S24, R25, S26, 2023, 2024, and 2025
       -- No MacOS support yet. It is coming!
       -- Higher polygon counts will result in much longer sending times.
       -- The RizomUV developer is looking into this issue.
+      -- With the addition of n-gon support, the edge selection logic needs updated.
+         For now it DOES work properly with non ngon meshes and meshes that are completely ngons.
