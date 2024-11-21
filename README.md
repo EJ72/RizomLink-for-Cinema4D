@@ -71,6 +71,6 @@ R23, S24, R25, S26, 2023, 2024, and 2025
       If you prefer to have your UVWs updated automatically, check the "Auto Update" checkbox after your file is finished sending to RizomUV
 
 # Known Issues
-      -- Ngons are not supported currently but will be in a future release.
+      -- No MacOS support yet. It is coming!
       -- Higher polygon counts will result in much longer sending times.
       -- The RizomUV developer is looking into this issue.
