@@ -2,7 +2,7 @@
 R23, S24, R25, S26, 2023, 2024, and 2025
 
 # Screenshots
-![UI](https://github.com/user-attachments/assets/420c63d7-9d00-414e-80cf-6f199d7d05e6)
+![GitImage](https://github.com/user-attachments/assets/0fb2677a-8953-4889-aea0-f51fb3f63412)
 
 # Feature List for RizomLink for Cinema 4D
 
@@ -22,11 +22,11 @@ R23, S24, R25, S26, 2023, 2024, and 2025
 
       Get Button: Manually retrieve updated UV data from RizomUV and apply it to the selected Cinema 4D object.
 
-      Auto Update Mode: Enables continuous monitoring of UV changes in RizomUV in real-time and sends that data back to Cinema 4D.
+      Auto Update Mode: Enables continuous monitoring of UV changes in RizomUV in real-time and sends that data back to Cinema 4D. (Disabled Currently)
 
 4.	Edge Export Functionality
 
-      Export Edges Option: Allows exporting selected edges from the active polygon object to RizomUV for more precise edge-based operations.
+      Export Edges Option: Allows exporting selected edges from the active polygon object to RizomUV for more precise edge-based operations. (Disabled for NGons Currently)
 
 5.	UV Data Normalization and Adjustment
 
