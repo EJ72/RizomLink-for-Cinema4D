@@ -2,7 +2,7 @@
 R23, S24, R25, S26, 2023, 2024, and 2025
 
 # Screenshots
-![GitImage](https://github.com/user-attachments/assets/0fb2677a-8953-4889-aea0-f51fb3f63412)
+![GitImage](https://github.com/user-attachments/assets/97b26f90-9db6-4ab8-b09d-b266aaaf1f38)
 
 # Feature List for RizomLink for Cinema 4D
 
