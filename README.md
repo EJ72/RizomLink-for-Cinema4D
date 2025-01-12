@@ -8,7 +8,7 @@ R23, S24, R25, S26, 2023, 2024, and 2025
 
 1.	Seamless Integration with RizomUV
 
-      Automatically sends UVW data from Cinema 4D to RizomUV, and retrieves updated UV data back to Cinema 4D for seamless UV editing workflow.
+      Sends UVW data from Cinema 4D to RizomUV, and retrieves updated UV data back to Cinema 4D for seamless UV editing workflow.
 
 2.	Automatic RizomUV Detection
 
@@ -44,7 +44,7 @@ R23, S24, R25, S26, 2023, 2024, and 2025
 
       Retrieves detailed polygon information including sizes, 3D coordinates, and UV indices.
 
-      Provides options to select specific edges or polygons to be processed in RizomUV, ensuring precise control over the UV editing workflow.
+      Provides options to select specific edges or polygons to be processed in RizomUV, ensuring precise control over the UV seams.
 
 8.	Intuitive User Interface
 
