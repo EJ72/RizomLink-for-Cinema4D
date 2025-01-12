@@ -68,7 +68,7 @@ R23, S24, R25, S26, 2023, 2024, and 2025
       Select an object to send to Rizom UV
       Load RizomLink and select options as desired then click 'Send' button
       Once UVs are adjusted the way you want, click the 'Get' button
-      If you prefer to have your UVWs updated automatically, check the "Auto Update" checkbox after your file is finished sending to RizomUV
+      If you prefer to have your UVWs updated automatically, check the "Auto Update" checkbox after your file is finished       sending to RizomUV(Disabled currently)
 
 # Known Issues
       -- No MacOS support yet. It is coming!
