@@ -1,5 +1,7 @@
 # Supported Cinema 4D versions:
 R23, S24, R25, S26, 2023, 2024, and 2025
+# Supported RizomUV versions:
+2022.2.4 and greater
 
 # Screenshots
 ![TexSettings](https://github.com/user-attachments/assets/8b6ac69e-d25f-43e4-b6ae-495f599eea28)
