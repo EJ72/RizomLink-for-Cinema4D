@@ -10,8 +10,10 @@ If RizomUV 2023.0.71 is the only version you have installed, it is only supporte
 If you happen to have any version 2022.2.4 or higher up to 2023.1.71 installed alongside 2024.1.56 (or higher), then 2022.2.4 will work in Cinema 4D 2024+
 
 # Screenshots
-![TexSettings](https://github.com/user-attachments/assets/8b6ac69e-d25f-43e4-b6ae-495f599eea28)
-
+![Image](https://github.com/user-attachments/assets/ec45d9e8-0179-4fdf-a860-addeaee9763f)
+![Image](https://github.com/user-attachments/assets/22eee534-30ae-4830-8926-052c244f43c3)
+![Image](https://github.com/user-attachments/assets/39f9c270-3856-4a54-bd24-25a9cd332271)
+![Image](https://github.com/user-attachments/assets/298ada5d-c80e-4c2e-964b-31972ab47a80)
 # Feature List for RizomLink for Cinema 4D
 
 1.	Seamless Integration with RizomUV
