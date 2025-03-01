@@ -76,11 +76,10 @@ If you happen to have any version 2022.2.4 or higher up to 2023.1.71 installed a
       Load RizomLink and select options as desired then click 'Send' button
       Once UVs are adjusted the way you want, click the 'Get' button
       If you prefer to have your UVWs updated automatically, check the "Auto Update"
-      checkbox after your file is finished sending to RizomUV (Disabled currently)
+      checkbox after your file is finished sending to RizomUV.
 
 # Known Issues
       -- No MacOS support yet. Unknown when or if I can support it.
       -- Higher polygon counts will result in much longer sending times.
       -- The RizomUV developer is looking into this issue.
       -- With the addition of n-gon support, the edge selection logic needs updated.
-         For now it DOES work properly with non ngon meshes and meshes that are completely ngons.
