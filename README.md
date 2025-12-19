@@ -1,7 +1,7 @@
 # Supported Cinema 4D versions:
-R23, S24, R25, S26, 2023, 2024, and 2025
+R23, S24, R25, S26, 2023, 2024, 2025, 2026
 # Supported RizomUV versions:
-2022.2.4 and greater
+2022.2.4 to 2024.1.63 for 0.8c and 2025+ for 0.9a and higher.
 # Special conditions about versions supported:
 If RizomUV 2022.2.4 is the only version you have installed, it is only supported up to Cinema 4D 2023 (Python 3.10.8)
 
